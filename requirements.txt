@@ -10,3 +10,4 @@ statsmodels >= 0.14.14
 plotly
 nbformat
 Jinja2
+pip
